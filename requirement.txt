@@ -4,3 +4,4 @@ pickle
 numpy
 math
 sk-learn
+scikit-learn
